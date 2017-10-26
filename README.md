@@ -3,7 +3,7 @@
 ### 簡介
 
 ### 整理大綱
- - [機器學習的數學基礎]
+ - [機器學習的數學基礎](https://mirdex.github.io/Machine_Learning/機器學習的數學基礎.slides.html)
  - [中文文字分類]
  - [決策樹的發展]
  - [推薦系統原理]
