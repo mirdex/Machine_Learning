@@ -4,7 +4,7 @@
 
 ### 整理大綱
  - [機器學習的數學基礎](https://mirdex.github.io/Machine_Learning/機器學習的數學基礎.slides.html)
- - [中文文字分類]
+ - [中文文字分類](https://mirdex.github.io/Machine_Learning/中文文字分類.slides.html)
  - [決策樹的發展]
  - [推薦系統原理]
  - [梯度優先]
