@@ -2,7 +2,7 @@
 
 ### 簡介
 
-### 整理大綱
+### 機器學習理論部分
  - [機器學習的數學基礎](https://mirdex.github.io/Machine_Learning/機器學習的數學基礎.slides.html)
  - [中文文字分類](https://mirdex.github.io/Machine_Learning/中文文字分類.slides.html)
  - [決策樹的發展]
@@ -15,5 +15,6 @@
  - [認知計算與深度學習]
  - [機率圖模型與詞性標記]
 
+### 機器學習實戰
 ### 學習資源
 
