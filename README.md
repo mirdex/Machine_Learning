@@ -19,7 +19,7 @@
 
 ### 各類演算法範例(詳細細節請參考理論部分)
 - 決策樹
- - [ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
- - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
+  - [ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
+  - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
 ### 學習資源
 
