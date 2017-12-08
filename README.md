@@ -7,8 +7,9 @@
  - [中文文字分類](https://mirdex.github.io/Machine_Learning/中文文字分類.slides.html)
    - [貝氏分類](https://mirdex.github.io/Machine_Learning/簡單貝氏.slides.html)
  - [決策樹的發展](https://mirdex.github.io/Machine_Learning/決策樹.slides.html)
-   - [ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
-   - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
+   - [一切的開始ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
+   - [經過改進的C4.5](https://mirdex.github.io/Machine_Learning/C4.5詳細計算表.xlsx)
+   - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
  - [推薦系統原理]
  - [梯度優先]
  - [神經網路]
@@ -20,11 +21,7 @@
 
 ### 機器學習實戰
 
-### 各類演算法範例(詳細細節請參考理論部分)
-- 決策樹
-  - [ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
-  - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
-- [貝氏分類](https://mirdex.github.io/Machine_Learning/簡單貝氏.slides.html)
+
 ### 參考資料
 - [推薦系統開放原始碼](http://ibillxia.github.io/blog/2014/03/10/top-10-open-source-recommendation-systems/#tc_qz_original=691102124)
 ### 學習資源
