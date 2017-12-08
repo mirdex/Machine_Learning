@@ -7,7 +7,7 @@
  - [中文文字分類](https://mirdex.github.io/Machine_Learning/中文文字分類.slides.html)
    - [貝氏分類](https://mirdex.github.io/Machine_Learning/簡單貝氏.slides.html)
  - [決策樹的發展](https://mirdex.github.io/Machine_Learning/決策樹.slides.html)
-   - [一切的開始ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
+   - [一切的開始ID3](https://mirdex.github.io/Machine_Learning/ID3流程簡報.pptx)
    - [經過改進的C4.5](https://mirdex.github.io/Machine_Learning/C4.5詳細計算表.xlsx)
    - [CART](https://mirdex.github.io/Machine_Learning/CART流程簡報.pptx)
  - [推薦系統原理]
