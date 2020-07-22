@@ -3,6 +3,7 @@
 ### 簡介
 
 ### 機器學習理論部分
+ - [簡介](https://mirdex.github.io/Machine_Learning/Report.slides.html)
  - [機器學習的數學基礎](https://mirdex.github.io/Machine_Learning/機器學習的數學基礎.slides.html)
  - [中文文字分類](https://mirdex.github.io/Machine_Learning/中文文字分類.slides.html)
    - [貝氏分類](https://mirdex.github.io/Machine_Learning/簡單貝氏.slides.html)
@@ -18,7 +19,7 @@
  - [人臉辨識技術]
  - [認知計算與深度學習]
  - [機率圖模型與詞性標記]
-
+ 
 ### 機器學習實戰
 
 
